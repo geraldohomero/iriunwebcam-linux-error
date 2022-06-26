@@ -1,5 +1,8 @@
 # Create a bash script for automation of the iriun webcam on linux
 
+![image](https://user-images.githubusercontent.com/70844369/175819438-1f221204-a006-4970-baf1-78cbf2b2f745.png)
+
+
 
 1. Create bash file
 
