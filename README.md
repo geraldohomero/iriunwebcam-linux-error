@@ -4,6 +4,7 @@
 ![image](https://user-images.githubusercontent.com/70844369/175819438-1f221204-a006-4970-baf1-78cbf2b2f745.png)
 
 
+Open Terminal
 
 1. Create bash file (on your home directory)
 
