@@ -32,3 +32,5 @@ Ctrl + o (save), Enter (ok), Ctrl + X (exit)
 
 5. Then, open the application
 
+
+You can download the iriun.sh on the release page
