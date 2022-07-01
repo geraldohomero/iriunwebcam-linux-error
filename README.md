@@ -1,5 +1,5 @@
 # Create a bash script for automation of the Iriun Webcam (fix error screen on Linux)
-*error page: initialization failed you may want to run: sudo modprobe 4l2loopback exclusive_caps=1*
+*Error page: initialization failed you may want to run: sudo modprobe 4l2loopback exclusive_caps=1*
 
 ![image](https://user-images.githubusercontent.com/70844369/175819438-1f221204-a006-4970-baf1-78cbf2b2f745.png)
 
@@ -34,3 +34,5 @@ Ctrl + o (save), Enter (ok), Ctrl + X (exit)
 
 
 You can download the iriun.sh on the release page
+
+- [I recommend reinstalling the Iriun Webcam](https://github.com/umlaeute/v4l2loopback#install)
