@@ -35,4 +35,4 @@ Ctrl + o (save), Enter (ok), Ctrl + X (exit)
 
 You can download the iriun.sh on the release page
 
-- [I recommend reinstalling the Iriun Webcam](https://github.com/umlaeute/v4l2loopback#install)
+- I recommend reinstalling the 4l2loopback - See how [here](https://github.com/umlaeute/v4l2loopback#install)
