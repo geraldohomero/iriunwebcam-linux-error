@@ -3,13 +3,6 @@ VERMELHO='\e[1;91m'
 VERDE='\e[1;92m'
 SEM_COR='\e[0m'
 
-# Internet?
-if ! ping -c 1 8.8.8.8 -q &> /dev/null; then
-  echo -e "${VERMELHO}[ERROR] - Not connected.${SEM_COR}"
-  exit 1
-else
-  echo -e "${VERDE}[INFO] - Connected ${SEM_COR}"
-fi
 
 
 procedimento () {
