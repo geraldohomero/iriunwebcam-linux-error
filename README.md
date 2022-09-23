@@ -25,13 +25,11 @@ Ctrl + o (save), Enter (ok), Ctrl + X (exit)
 
 `sudo chmod +x iriun.sh`
 
-
 4. Every time you want to open the Iriun Webcam run:
 
 `./iriun.sh`
 
 5. Then, open the application
-
 
 You can download the iriun.sh on the release page
 
