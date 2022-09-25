@@ -20,7 +20,6 @@ Paste (Ctrl+Shift+V):
 
 Ctrl + o (save), Enter (ok), Ctrl + X (exit)
 
-
 3. Make it executable:
 
 `sudo chmod +x iriun.sh`
