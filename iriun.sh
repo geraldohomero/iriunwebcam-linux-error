@@ -3,7 +3,7 @@ VERMELHO='\e[1;91m'
 VERDE='\e[1;92m'
 SEM_COR='\e[0m'
 
-
+aaaa
 
 procedimento () {
   echo -e "${VERDE}[INFO] - rmmod v4l2loopback ${SEM_COR}"
